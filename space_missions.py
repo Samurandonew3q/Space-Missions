@@ -1,4 +1,5 @@
 # Space Missions
+import os
 
 # Dataset of space missions
 space_missions = [
