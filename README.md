@@ -1,4 +1,4 @@
-# 🚀 Space Missions - Data on Space Exploration Missions
+# 🚀 Space Missions - Data on Space Exploration Missions.
 
 This project presents a simple Python script to explore and filter data on space missions from various space agencies.
 
