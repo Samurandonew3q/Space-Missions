@@ -1,5 +1,6 @@
 # Space Missions
 import os
+import pandas
 
 # Dataset of space missions
 space_missions = [
