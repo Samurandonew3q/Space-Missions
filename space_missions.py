@@ -1,7 +1,3 @@
-# Space Missions
-import os
-import pandas
-
 # Dataset of space missions
 space_missions = [
     {"name": "Apollo 11", "agency": "NASA", "year": 1969, "destination": "Moon"},
