@@ -1,4 +1,8 @@
-# Dataset of space missions
+#function
+def list_missions():
+    try
+    
+# Dataset of space missions    
 space_missions = [
     {"name": "Apollo 11", "agency": "NASA", "year": 1969, "destination": "Moon"},
     {"name": "Vostok 1", "agency": "Soviet Union", "year": 1961, "destination": "Low Earth Orbit"},
