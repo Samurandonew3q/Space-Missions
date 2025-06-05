@@ -1,6 +1,6 @@
 #function
 def list_missions():
-    try
+    True
     
 # Dataset of space missions    
 space_missions = [
