@@ -11,7 +11,7 @@ This project presents a simple Python script to explore and filter data on space
 ##  Example Output
 
 List of Space Missions:
-- Apollo 11 (1969) by NASA to Moon
+- Apollo 11 (1970) by NASA to Moon
 - Vostok 1 (1961) by Soviet Union to Low Earth Orbit
 - Mars Pathfinder (1997) by NASA to Mars
 
